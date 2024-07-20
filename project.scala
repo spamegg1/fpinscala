@@ -5,4 +5,4 @@
 //> using options -source:future
 //> using options -Ykind-projector:underscores
 
-//> using toolkit default
+//> using dep org.scalameta::munit:1.0.0
